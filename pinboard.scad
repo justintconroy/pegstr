@@ -29,4 +29,5 @@ module pinboard(
 	}
 }
 
-pinboard(false,13);
+// Examples
+//pinboard(false,13);
