@@ -14,6 +14,7 @@ Forked from [@MGX3D's pegstr project](https://github.com/MGX3D/pegstr).
 
 ### Notes
 * This is designed to work with US-style pegboard (1/4" holes, 1" spaced).
-* The original project is CC-BY-NC (Creative Commons - Attribution - Non-Commercial),
+* The original project is [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
+  (Creative Commons - Attribution - Non-Commercial),
   and thus so is this one. I think if you wanted to use it commercially, you would
   need to get permission from both me and the original creator.
