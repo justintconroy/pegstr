@@ -18,3 +18,5 @@ Forked from [@MGX3D's pegstr project](https://github.com/MGX3D/pegstr).
   (Creative Commons - Attribution - Non-Commercial),
   and thus so is this one. I think if you wanted to use it commercially, you would
   need to get permission from both me and the original creator.
+* I added the AGPL for licensing the code itself. You are not permitted to use the code
+  or derivative works to bypass the CC-BY-NC license on the generated content.
