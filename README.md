@@ -1,6 +1,8 @@
 # Pegstr - Pegboard Wizard
 ### Parametric Peg Board Mounts Generator
-* Infinite ways to create pegboard holders and bins for tools or display objects.* 
+*Infinite ways to create pegboard holders and bins for tools or display objects.*
+
+Forked from [@MGX3D's pegstr project](https://github.com/MGX3D/pegstr).
 
 ### Highlights:
 * One or multiple (m•n matrix) objects per holder
@@ -12,6 +14,6 @@
 
 ### Notes
 * This is designed to work with US-style pegboard (1/4" holes, 1" spaced).
-* The original project is CC-NC (Creative Commons - Attribution - Non-Commercial),
+* The original project is CC-BY-NC (Creative Commons - Attribution - Non-Commercial),
   and thus so is this one. I think if you wanted to use it commercially, you would
   need to get permission from both me and the original creator.
