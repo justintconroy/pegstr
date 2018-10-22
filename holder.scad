@@ -20,7 +20,7 @@ module holder(
 	holder_sides = max(50, min(20, holder_x_size*2));
 	holder_total_x = wall_thickness + holder_x_count*(wall_thickness+holder_x_size);
 	holder_total_y = wall_thickness + holder_y_count*(wall_thickness+holder_y_size);
-	//holder_total_z = round(holder_height/hole_spacing)*hole_spacing;
+	holder_total_z = round(holder_height/hole_spacing)*hole_spacing;
 	holder_roundness = min(corner_radius, holder_x_size/2, holder_y_size/2); 
 
 	for(x=[1:holder_x_count]){
